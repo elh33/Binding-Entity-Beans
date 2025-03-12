@@ -1,4 +1,4 @@
-# JPA Bidirectional Relationship Project
+# OneToOne Relationship Example with JPA
 
 ## Overview
 This project demonstrates the implementation of bidirectional relationships in JPA using a Student-Address model. It showcases how to create a relationship where both database tables have foreign keys referencing each other.
