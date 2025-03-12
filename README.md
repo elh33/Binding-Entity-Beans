@@ -16,7 +16,7 @@ This project demonstrates the implementation of bidirectional relationships in J
 
 ## Database Configuration
 The project uses MySQL with the following connection details:
-- Database: entity2
+- Database: entity1
 - Username: root
 - Password: (0000)
 
